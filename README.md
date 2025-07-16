@@ -1,13 +1,14 @@
 # 👋 Xin chào! Tôi là Tan
 
-- 🔭 Hiện đang học lập trình backend tại 28tech
-- 🌱 Đang tìm hiểu: Python, Django, Git
-- 📫 Liên hệ: batanvlog2503@gmail.com
+- 🔭 Hiện đang học tại Computer Science At PTIT
+- 💕 Thành thạo C, C++
+- 🌱 Đang tìm hiểu: Python, Git, Java, HTML/CSS
+- 📫 Liên hệ: tanden1357gmail.com@gmail.com
 - 😄 Sở thích: code, đọc tài liệu, chơi game
 
 ## 🔧 Kỹ năng:
-- Python, Git, HTML/CSS
-- Django cơ bản
+- Python, Git, HTML/CSS,C++
+  
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=batanvlog2503&show_icons=true)
