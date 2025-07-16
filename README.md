@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Xin chào! Tôi là Tan
 
-<!--
-**batanvlog2503/batanvlog2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hiện đang học lập trình backend tại 28tech
+- 🌱 Đang tìm hiểu: Python, Django, Git
+- 📫 Liên hệ: batanvlog2503@gmail.com
+- 😄 Sở thích: code, đọc tài liệu, chơi game
 
-Here are some ideas to get you started:
+## 🔧 Kỹ năng:
+- Python, Git, HTML/CSS
+- Django cơ bản
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=batanvlog2503&show_icons=true)
