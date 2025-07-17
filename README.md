@@ -3,7 +3,7 @@
 - 🔭 Hiện đang học tại Computer Science At PTIT
 - 💕 Thành thạo C, C++
 - 🌱 Đang tìm hiểu: Python, Git, Java, HTML/CSS
-- 📫 Liên hệ: tanden1357gmail.com@gmail.com
+- 📫 Liên hệ: tanden1357@gmail.com
 - 😄 Sở thích: code, đọc tài liệu, chơi game
 
 ## 🔧 Kỹ năng:
