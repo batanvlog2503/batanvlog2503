@@ -16,3 +16,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batanvlog2503&hide_progress=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batanvlog2503&layout=compact)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=batanvlog2503)](https://github.com/anuraghazra/github-readme-stats)
